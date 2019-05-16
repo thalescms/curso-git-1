@@ -6,4 +6,4 @@ fogo no parquino
 
 irryyyyyyy
 
-deu ruim
+Resolvemos o conflito
