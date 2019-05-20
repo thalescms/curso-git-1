@@ -1,1 +1,3 @@
-testando o uso de branches
+Testando o uso de branches.
+
+Testando o uso de rebase (Sarah).
